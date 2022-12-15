@@ -2,7 +2,7 @@
   "foodking": [
     {
       "id": 1,
-      "name": "Mr.Burger",
+      "name": "Double Burger",
       "description": "Juicy, big, loaded with toppings of choice.",
       "image_url": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg",
       "reviews": [
@@ -60,7 +60,7 @@
     },
     {
       "id": 6,
-      "name": "Chicken-tikka",
+      "name": "Chicken bites",
       "description": "Sticky barbecued wings and chest with a burst of flavours",
       "image_url": "https://cdn.pixabay.com/photo/2016/03/26/22/53/chicken-1281709_960_720.jpg",
       "reviews": [
@@ -71,7 +71,7 @@
     },
     {
       "id": 7,
-      "name": "Beef Boerewors",
+      "name": "Hot Dogs",
       "description": "Instant Grill and served with sauted onions,mayonesse and love!",
       "image_url": "https://cdn.pixabay.com/photo/2019/10/30/14/20/hotdog-4589626_960_720.jpg",
       "reviews": [
@@ -83,7 +83,7 @@
     },
     {
       "id": 8,
-      "name": "Mac N Cheese",
+      "name": "Mac n cheese",
       "description": "Pasta sensation with lots of cheese",
       "image_url": "https://cdn.tasteatlas.com//images/toplistarticles/fc20fbcfe5cd4690ba0cb9614192303a.jpg?w=375&h=280",
       "reviews": [
@@ -95,7 +95,7 @@
     },
     {
       "id": 9,
-      "name": "Power-Salad",
+      "name": "Lemon-Salad",
       "description": "Whole-grain lettuce dressed salad, garished in olive oil and heavenly mix of sauces",
       "image_url": "https://cdn.pixabay.com/photo/2016/09/15/19/24/salad-1672505_960_720.jpg",
       "reviews": [
@@ -107,7 +107,7 @@
     },
     {
       "id": 10,
-      "name": "Brunch-Spread",
+      "name": "Bread-Brunch",
       "description": "A deliciously generous spread of breakfast goodness. Greatness in a plate! ",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-n_BBa_qhYt3R6-kYUPqnnBgt7z5WFvF86w&usqp=CAU",
       "reviews": [
