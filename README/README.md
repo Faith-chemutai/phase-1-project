@@ -24,8 +24,10 @@ Run the following code to enable json to watch over the db.json file
  
  Test your server by visiting this route in the browser:
 
-http://localhost:3000/foodies
+http://localhost:3000/foodiking
 
 Then, open the index.html file on your browser to run the application.
 The base URL for your API will be http://localhost:3000
+
+Go to the html file and click on Go live extension to run the code inorder to display in the browser.
 

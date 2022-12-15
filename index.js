@@ -75,7 +75,7 @@ btn.addEventListener("click",() =>{
   alert("successfully placed an order")
 
 })
-let btnClear=document.querySelector('form');
-let inputs=document.querySelector('input');
-inputs.forEach(input => input.value='');
+//let btnClear=document.querySelector('form');
+//let inputs=document.querySelector('input');
+/*inputs.forEach(input => input.value='');*/
 
