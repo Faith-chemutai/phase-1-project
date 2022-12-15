@@ -105,18 +105,4 @@
           "Price[kshs 400]"
       ]
     },
-    {
-      "id": 10,
-      "name": "Brunch-Spread",
-      "description": "A deliciously generous spread of breakfast goodness. Greatness in a plate! ",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-n_BBa_qhYt3R6-kYUPqnnBgt7z5WFvF86w&usqp=CAU",
-      "reviews": [
-          "Love everything about it",
-          "A brunch-spread everyone neeeds to taste",
-          "So good and satisfying.Definitely ordering another tomorrow morning",
-          "Price[kshs 500]"
-          
-      ]
-    }
-  ]
-}
+   
