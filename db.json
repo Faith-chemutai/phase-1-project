@@ -1,0 +1,122 @@
+{
+  "foodking": [
+    {
+      "id": 1,
+      "name": "Mr.Burger",
+      "description": "Juicy, big, loaded with toppings of choice.",
+      "image_url": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg",
+      "reviews": [
+        "It's flavourful! Just the way I like it!!",
+        "Condiments!, Lots",
+        "The cole-slow brings me back everytime,such a statement maker!",
+        "Price[kshs 500]"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cripsy chips Combo",
+      "description": "Double-Burger + large chips on OFFER!!Just for YOU!",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "reviews": [
+          "Generous fresh Toppings, Loved IT",
+          "Large burgers ae the thing",
+          "The salad was the best part",
+          "Price[kshs 650]"
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Spicy pork Ribs",
+      "description": "Barbecued slow-cooked pulled ribs",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUMmpk4JZknhkiIK_jlCMBHQh_Ubk0FcysA&usqp=CAU",
+      "reviews": [
+        "Easy fall off of flesh and sooo juicy",
+        "You can never go wrong with pork",
+        "Price[kshs 800]"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Crispy garlic chicken",
+      "description": "Tastes like memories",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hVoSI6umhteuX4bk-DAdeZKZgF-NnlmsLQ&usqp=CAU",
+      "reviews": [
+        "Very cripsy",
+        "Great size,and golden color",
+        "Price[kshs 700]"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "pepperoni pizza",
+      "description": "Jumbo mega-pizza perfect for cheese lovers ",
+      "image_url": "https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_960_720.jpg",
+      "reviews": [
+          "Mouth-watering impression,soo good",
+          "Heavenly crust",
+          "Smell of warm cheese,fantastic!",
+          "Price[kshs 600]"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chicken-tikka",
+      "description": "Sticky barbecued wings and chest with a burst of flavours",
+      "image_url": "https://cdn.pixabay.com/photo/2016/03/26/22/53/chicken-1281709_960_720.jpg",
+      "reviews": [
+          "Satisfying meal",
+          "Chicken like no other, best served hot",
+          "Price[kshs 800]"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Beef Boerewors",
+      "description": "Instant Grill and served with sauted onions,mayonesse and love!",
+      "image_url": "https://cdn.pixabay.com/photo/2019/10/30/14/20/hotdog-4589626_960_720.jpg",
+      "reviews": [
+          "Lots of salad and onions, loved IT!",
+          "Grilled to perfection",
+          "So tasty",
+          "Price[kshs 700]"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Mac N Cheese",
+      "description": "Pasta sensation with lots of cheese",
+      "image_url": "https://cdn.tasteatlas.com//images/toplistarticles/fc20fbcfe5cd4690ba0cb9614192303a.jpg?w=375&h=280",
+      "reviews": [
+        "It's a flavor that makes you wonder",
+        "Can/'t go a day without",
+        "Makes Lunch the best part of the day!",
+        "Price[kshs 500]"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Power-Salad",
+      "description": "Whole-grain lettuce dressed salad, garished in olive oil and heavenly mix of sauces",
+      "image_url": "https://cdn.pixabay.com/photo/2016/09/15/19/24/salad-1672505_960_720.jpg",
+      "reviews": [
+          "Great way to start the day!",
+          "Such a great healthy feeling I get everytime I eat this",
+          "Great combo in the salad,love the cereals ,fruits and chicken strips",
+          "Price[kshs 400]"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Brunch-Spread",
+      "description": "A deliciously generous spread of breakfast goodness. Greatness in a plate! ",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-n_BBa_qhYt3R6-kYUPqnnBgt7z5WFvF86w&usqp=CAU",
+      "reviews": [
+          "Love everything about it",
+          "A brunch-spread everyone neeeds to taste",
+          "So good and satisfying.Definitely ordering another tomorrow morning",
+          "Price[kshs 500]"
+          
+      ]
+    }
+  ]
+}

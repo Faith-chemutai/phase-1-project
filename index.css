@@ -1,0 +1,114 @@
+
+body{
+  background-image: url('https://cdn.pixabay.com/photo/2016/11/22/21/28/cupcakes-1850628_960_720.jpg');
+}
+.forms{
+  color:#111
+  ;
+
+
+}
+.heading {
+  background-color: #333333;
+  margin-bottom: 10px;
+  padding: 10px;
+
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+img{
+  width: 500px ;
+  height:400px;
+}
+
+.title {
+  background-color: #333333;
+  padding: 5px;
+  color: white;
+
+}
+.content {
+  color: #f7eeee;
+  margin-left: 100px;
+}
+
+#subtitle {
+  color: white;
+  margin-left: 200px;
+}
+
+#showing {
+  margin-left: 20px;
+}
+
+#food li::before {
+  content: "";
+}
+
+.food {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.sold-out {
+  color: lightgray;
+}
+
+img {
+  max-width: 25vw;
+}
+
+#food-info {
+  color: #242208;
+  padding-bottom: 15px;
+}
+#place-order{
+  justify-content: center;
+  display: flex;
+  /* background-color: chartreuse; */
+}
+.container{
+display: flex; 
+  align-items:center;
+  justify-content: space-between;
+  padding-left: 30px;
+  font-size: 20px;
+
+}
+.list-card{
+display: flex;
+justify-content: space-around;
+}
+.food-item{
+background-color:rgb(71, 189, 24);
+padding: 8px;
+margin-bottom: 2px;
+list-style-type: none;
+cursor: pointer;
+}
+
+.food-sec-image {
+padding: 1em;
+
+}
+.food-sec-image img {
+/* max-width: 100%; */
+height: 50vh;
+
+}
+#place-order{
+background-color: orangered;
+}
+#start{
+background-color:#ed661f;
+color: #fafafa;
+padding: 20px ;
+border-radius: 5x;
+border: none;
+margin-left: 80px;
+}
+.logins{
+margin-left: 60%;
+/* background-color: red; */
+}
