@@ -29,5 +29,5 @@ http://localhost:3000/foodiking
 Then, open the index.html file on your browser to run the application.
 The base URL for your API will be http://localhost:3000
 
-Go to the html file and click on Go live extension to run the code inorder to display in the browser.
+Go to the html file and click on Go live extension to run and  display in the browser.
 
