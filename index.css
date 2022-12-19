@@ -9,7 +9,7 @@ body{
   
   }
   .heading {
-    background-color: #333333;
+    background-color: #3e4241;
     margin-bottom: 10px;
     padding: 10px;
     text-align: center;
@@ -24,7 +24,7 @@ body{
   }
   
   .title {
-    background-color: #333333;
+    background-color: #16dd9b;
     padding: 5px;
     color: white;
   
@@ -99,7 +99,7 @@ body{
   
   }
   #place-order{
-  background-color: orangered;
+  background-color: rgb(126, 230, 8);
   }
   #start{
   background-color:#ed661f;
@@ -129,7 +129,7 @@ body{
   
   .topnav a:hover {
     background-color: rgb(20, 178, 199);
-    color: black;
+    color: rgb(17, 215, 241);
   }
   
   .topnav a.active {
