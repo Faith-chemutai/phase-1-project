@@ -41,7 +41,7 @@ foodListArr.forEach(food => {
   // let foodName = food.name
   // console.log(foodList+"before");
   // foodList.innerHTML += `<li class="food-item">${foodName}<li/>`
-  // console.log(foodList);
+  
   let li = document.createElement("li");
 li.textContent = food.name;
 li.classList.add("food-item")

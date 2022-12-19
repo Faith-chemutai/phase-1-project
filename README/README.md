@@ -5,10 +5,9 @@ CEE DINES ONESTOP ORDER IN
 
 ## Project description
 This project is about a web application that enables the users to;
-   =>Order foodfrom the web app.
-   =>It allows the user to choose from the variety of food that is
-available for order according to their preference.
-    =>Allows the user to submit their reviews about the food ordered
+   =>Order food from the web app.
+   =>choose their preferred food from the variety available .
+    =>Submit their reviews about the food ordered.
 
  ## How to access this project
  In the terminal,,navigate to the folder you want to work with.
@@ -24,7 +23,7 @@ Run the following code to enable json to watch over the db.json file
  
  Test your server by visiting this route in the browser:
 
-http://localhost:3000/foodiking
+http://localhost:3000/foodking
 
 Then, open the index.html file on your browser to run the application.
 The base URL for your API will be http://localhost:3000
